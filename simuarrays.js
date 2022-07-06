@@ -60,3 +60,5 @@ const opereta=['MONTO=',monto,'  DIAS=', dias,' TASA=', tasa,' CAPITAL FINAL=']
 opereta.push( resultado.toFixed(2))
 
 console.log('RESUMEN= '+opereta);
+
+ 
